@@ -101,7 +101,7 @@ let supportedFiles: Array<any> = [
 	},
 	{
 		files:
-			["cpp", "h"],
+			["c", "cpp", "h"],
 		regex: '\/\/!\\s*\\[${snipName}\\](.*?)\/\/!\\s*\\[${snipName}\\]',
 		addCodeBlock: true
 	},
