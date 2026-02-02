@@ -2,11 +2,11 @@
   "name": "markdownsnippetinclude",
   "displayName": "Markdown Snippet Include",
   "description": "Include snippets from other files in your markdown files",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.76.0"
   },
-  "publisher": "DrewAvis",
+  "publisher": "SwedishChef",
   "repository": {"type":"git","url":"https://github.com/swedishchef/markdowninclude"},
   "homepage": "https://github.com/drewavis/markdowninclude/blob/main/README.md",
   "license": "SEE LICENSE IN LICENSE.txt",
